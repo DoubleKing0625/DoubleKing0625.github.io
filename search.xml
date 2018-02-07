@@ -3,9 +3,24 @@
   
     
     <entry>
+      <title><![CDATA[隐马尔科夫模型HMM]]></title>
+      <url>/2018/02/08/%E9%9A%90%E9%A9%AC%E5%B0%94%E7%A7%91%E5%A4%AB%E6%A8%A1%E5%9E%8BHMM/</url>
+      <content type="html"></content>
+      
+        
+        <tags>
+            
+            <tag> machine learning </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[优雅手推SVM]]></title>
       <url>/2018/02/07/%E4%BC%98%E9%9B%85%E6%89%8B%E6%8E%A8SVM/</url>
-      <content type="html"></content>
+      <content type="html"><![CDATA[<h1 id="如何优雅地手推SVM"><a href="#如何优雅地手推SVM" class="headerlink" title="如何优雅地手推SVM"></a>如何优雅地手推SVM</h1><p><strong>手推SVM</strong>是机器学习岗面试经典题。很考验ML基础。此博文尽可能抽丝剥茧地推导SVM，细致不繁琐。</p>
+]]></content>
       
         
         <tags>
