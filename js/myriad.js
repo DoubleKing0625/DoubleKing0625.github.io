@@ -2,7 +2,7 @@
  * The following copyright notice may not be removed under any circumstances.
  * 
  * Copyright:
- * Copyright © 2000 Adobe Systems Incorporated. All Rights Reserved. U.S. Patent
+ * Copyright ï¿½ 2000 Adobe Systems Incorporated. All Rights Reserved. U.S. Patent
  * Des. pending.
  * 
  * Trademark:
@@ -25,7 +25,7 @@ Cufon.registerFont({"w":184,"face":{"font-family":"Myriad","font-weight":400,"fo
  * The following copyright notice may not be removed under any circumstances.
  * 
  * Copyright:
- * Copyright © 2000 Adobe Systems Incorporated. All Rights Reserved. U.S. Patent
+ * Copyright ï¿½ 2000 Adobe Systems Incorporated. All Rights Reserved. U.S. Patent
  * Des. pending.
  * 
  * Trademark:
@@ -48,7 +48,7 @@ Cufon.registerFont({"w":199,"face":{"font-family":"Myriad","font-weight":700,"fo
  * The following copyright notice may not be removed under any circumstances.
  * 
  * Copyright:
- * Copyright © 2000 Adobe Systems Incorporated. All Rights Reserved. U.S. Patent
+ * Copyright ï¿½ 2000 Adobe Systems Incorporated. All Rights Reserved. U.S. Patent
  * Des. pending.
  * 
  * Trademark:
@@ -71,7 +71,7 @@ Cufon.registerFont({"w":177,"face":{"font-family":"Myriad","font-weight":400,"fo
  * The following copyright notice may not be removed under any circumstances.
  * 
  * Copyright:
- * Copyright © 2000 Adobe Systems Incorporated. All Rights Reserved. U.S. Patent
+ * Copyright ï¿½ 2000 Adobe Systems Incorporated. All Rights Reserved. U.S. Patent
  * Des. pending.
  * 
  * Trademark:
